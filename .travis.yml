@@ -7,4 +7,5 @@ before_install:
 
 script:
   - docker run zinalacina/docker-react npm run test -- --coverage
+
   
